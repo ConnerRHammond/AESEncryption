@@ -16,4 +16,4 @@ AES Encryption Algorithm for 128, 196, and 256 bit key.
 
 ## Additional Information 
 ### FIPS Processing Standard 197
-[Standard] (https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.197.pdf)
+https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.197.pdf
